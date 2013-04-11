@@ -1,4 +1,1 @@
-sketch-icons
-============
-
-Move to nvk/sketch-icons
+# [Moved to nvk/sketch-ios >>](http://github.com/nvk/sketch-icons)
